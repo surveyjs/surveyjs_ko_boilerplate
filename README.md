@@ -10,10 +10,12 @@
 
 ## Add survey component on your page
 
+### HTML
 ```HTML
 <survey params="survey: surveyModel"></survey>
 ```
 
+### JavaScript
 ```JavaScript
  //Define Survey JSON
  //Here is the simplest Survey with one text question
